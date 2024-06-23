@@ -36,10 +36,11 @@ I am currently exploring:
 
 ## 🤝 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/abhishek-soni-978270212/))
+<!--
 - [Twitter](https://twitter.com/yourprofile)
 - [Personal Website](https://yourwebsite.com)
-
+ -->
 ---
 
 ## 📧 Get in Touch
